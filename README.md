@@ -1,4 +1,6 @@
-# 2048PygameUsingPython
+# 2048 with pygame
+Pygame implementation of the popular mobile game 2048
 
-
-https://github.com/nikhilthoratb/2048PygameUsingPython/
+<p align="center">
+  <img src="https://github.com/epizzigoni/pygame-2048/blob/master/game-screenshot.png" width="400"/>
+</p>

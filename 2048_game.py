@@ -39,13 +39,13 @@ def wait_for_key():
             if event.type == QUIT:
                 return 'q'
             if event.type == KEYDOWN:
-                if event.key == K_UP:
+                if event.key == K_3:
                     return 'u'
-                elif event.key == K_RIGHT:
+                elif event.key == K_2:
                     return 'r'
-                elif event.key == K_LEFT:
+                elif event.key == K_1:
                     return 'l'
-                elif event.key == K_DOWN:
+                elif event.key == K_4:
                     return 'd'
                 elif event.key == K_q or event.key == K_ESCAPE:
                     return 'q'
